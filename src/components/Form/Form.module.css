@@ -1,0 +1,22 @@
+.container {
+    display:flex;
+    margin:auto;
+    width: 5%;
+    justify-content: space-around;
+}
+
+.container input {
+    border-radius: 5px;
+    height: 20px;
+}
+
+.container button {
+    height: 38px;
+    background-color: rgb(133, 133, 238);
+    border-radius: 5px;
+    color: rgb(4, 55, 18);
+}
+
+.error {
+    color: red;
+}

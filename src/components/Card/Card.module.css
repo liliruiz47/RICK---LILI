@@ -1,0 +1,42 @@
+
+
+.container {
+    border: 1px solid rgb(59, 69, 114);
+    background-color: rgb(240, 246, 153);
+    border-radius: 10px;
+    width: 180px;
+    padding: 15px;
+    box-shadow: 0 0 10px black;
+    margin: 35px;
+    
+
+}
+
+.image {
+    width: 95%;
+    border: 1px solid rgb(59, 69, 114);
+    border-radius: 10px;
+    
+
+}
+
+.buttonContainer {
+    
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.buttonContainer button {
+    margin:3px 3px 0 0;
+    background-color: rgb(193, 152, 68);
+    color: whitesmoke;
+    border:none;
+    border-radius: 3px;
+}
+
+.data {
+    display: flex;
+    justify-content: space-around;
+    
+}
